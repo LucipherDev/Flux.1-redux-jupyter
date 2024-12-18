@@ -22,6 +22,6 @@ Support for up to 3 reference images
 
 **Comparison with different downsampling_factor values*
 
-https://github.com/user-attachments/assets/db170582-b8ca-4929-9532-d1ba68d89fd0
+[Demo video](https://github.com/user-attachments/assets/db170582-b8ca-4929-9532-d1ba68d89fd0)
 
 ![examples-2](https://github.com/user-attachments/assets/3a9b60bd-a8bd-4c16-b5dd-313f4463c352)
